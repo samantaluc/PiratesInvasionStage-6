@@ -10,7 +10,7 @@ cannonExplosion; //explosão do canhao
 var canvas, angle, tower, ground, cannon, boat;
 var balls = [];
 var boats = [];
-var score = 0;
+var score = 0; //pontuação em zero
 var boatAnimation = [];
 var boatSpritedata, boatSpritesheet;
 var brokenBoatAnimation = [];
